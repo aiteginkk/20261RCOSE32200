@@ -4,3 +4,5 @@ Processes
 Fork
 Exec
 Wait
+
+A process is a running instance of a program.
