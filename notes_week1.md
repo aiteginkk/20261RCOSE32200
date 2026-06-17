@@ -5,3 +5,4 @@ Basic shell commands
 File system overview
 
 Linux uses a hierarchical file system.
+Directories are organized in a tree structure.
